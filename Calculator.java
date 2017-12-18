@@ -3,8 +3,6 @@
  * The main class of a simple calculator. Create one of these and you'll
  * get the calculator on screen.
  * 
- * @author: Michael Kölling and David J. Barnes
- * @version 2016.02.29
  */
 public class Calculator
 {

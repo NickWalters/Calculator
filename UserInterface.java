@@ -8,8 +8,6 @@ import javax.swing.border.*;
  * done here. This class is responsible just for putting up the display on 
  * screen. It then refers to the "CalcEngine" to do all the real work.
  * 
- * @author: Michael Kölling and David J. Barnes
- * @version 2016.02.29
  */
 public class UserInterface
 {
